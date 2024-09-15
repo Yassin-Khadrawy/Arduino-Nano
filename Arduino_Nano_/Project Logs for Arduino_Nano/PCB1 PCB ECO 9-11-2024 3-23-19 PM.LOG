@@ -1,0 +1,4 @@
+Change Component Comment : Designator=J1 Old Comment=pin header_ New Comment=PIN.HEADERS
+Change Component Comment : Designator=J2 Old Comment=pin header_ New Comment=PIN.HEADERS
+Added Member To Class: ClassName=Sheet1 Member=Component J1 PIN.HEADERS
+Added Member To Class: ClassName=Sheet1 Member=Component J2 PIN.HEADERS

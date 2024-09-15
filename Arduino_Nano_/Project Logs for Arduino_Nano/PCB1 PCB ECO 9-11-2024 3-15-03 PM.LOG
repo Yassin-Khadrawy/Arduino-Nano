@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Added Component: Designator=J5(PIN)
+Added Component: Designator=J6(PIN)
+Added Component: Designator=J7(PIN)
+Added Component: Designator=J8(PIN)
+Added Member To Class: ClassName=Sheet1 Member=Component J5 pin
+Added Member To Class: ClassName=Sheet1 Member=Component J6 pin
+Added Member To Class: ClassName=Sheet1 Member=Component J7 pin
+Added Member To Class: ClassName=Sheet1 Member=Component J8 pin

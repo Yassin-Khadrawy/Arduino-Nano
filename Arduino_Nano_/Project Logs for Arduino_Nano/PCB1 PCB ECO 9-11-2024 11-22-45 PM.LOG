@@ -1,0 +1,6 @@
+Change Component Comment : Designator=D2 Old Comment=LED New Comment=LED_TX
+Added Component: Designator=D1(LED)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED_RX
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED_TX

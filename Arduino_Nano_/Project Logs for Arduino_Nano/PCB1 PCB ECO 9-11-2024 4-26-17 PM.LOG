@@ -1,0 +1,7 @@
+Added Component: Designator=SW1(push button)
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=RESET Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 push button
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 crystal_dub

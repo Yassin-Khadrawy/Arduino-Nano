@@ -1,0 +1,8 @@
+Added Component: Designator=C3(polar Capacitor)
+Added Component: Designator=C6(polar Capacitor)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VUSB Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C6-2
+Added Member To Class: ClassName=Sheet1 Member=Component C3 polarized capcitor
+Added Member To Class: ClassName=Sheet1 Member=Component C6 polarized capcitor

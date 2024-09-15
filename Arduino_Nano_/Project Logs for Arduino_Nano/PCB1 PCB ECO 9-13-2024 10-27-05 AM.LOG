@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=ICSP NewDesignator=J4
+Change Component Designator: OldDesignator=L NewDesignator=D3
+Change Component Designator: OldDesignator=PWR NewDesignator=D4
+Change Component Designator: OldDesignator=RST NewDesignator=SW1
+Change Component Designator: OldDesignator=RX NewDesignator=D1
+Change Component Designator: OldDesignator=TX NewDesignator=D2
